@@ -1,5 +1,6 @@
 <MoreGameConfig>
 <Version>1</Version>
+<AndroidVersion>1</AndroidVersion>
 <Kind1LunchCount>5</Kind1LunchCount>
 <Kind0DayCount>6</Kind0DayCount>
 </MoreGameConfig>
